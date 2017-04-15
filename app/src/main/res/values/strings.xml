@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Applaudo Test</string>
+    <string name="splashscreen_text">Applaudo Studios Test</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="facebook_app_id">1485724865011216</string>
+    <string name="title_item_list">Applaudo Studios Test</string>
+    <string name="title_item_detail">Applaudo Studios Test</string>
+</resources>
+
